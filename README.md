@@ -1,9 +1,5 @@
 # DTTPHackathon-Thrive
 
-Certainly! Here's an updated description with the technologies used in the project:
-
----
-
 # Thrive - A Mental Health Awareness Project
 
 Thrive is a web-based project aimed at promoting mental health awareness and well-being through a series of interactive resources, including quizzes, self-assessment tools, curated video content, and inspirational quotes. The project strives to provide valuable insights into mental health, reduce stigma, and encourage self-care practices.
